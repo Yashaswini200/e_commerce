@@ -32,7 +32,7 @@ public class E_Commerce_Test  extends CommonToAllTest {
     }
 }
 
-//package org.example.Test;
+//package org.example.Test;r5ttttt0
 //
 //import org.apache.commons.math3.stat.descriptive.summary.Product;
 //import org.example.E_Commerce.LoginPage;
