@@ -13,6 +13,6 @@ public class CommonToAllTest {
     }
     @AfterMethod
     public void tear(){
-//DriverManager.down();
+
     }
 }
